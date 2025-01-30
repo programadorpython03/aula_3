@@ -1,4 +1,4 @@
-# Palavra chave da aula 3:
+# Palavra chave da aula 3: Quero ser expert em Python
 
 import tkinter as tk
 from tkinter import filedialog, messagebox
